@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7274627a7a06fb445883dc4c9c88ebc6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GROBOLD
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9890bb26e9ad71049a7a19fc32087ebe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
